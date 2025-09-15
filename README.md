@@ -129,12 +129,12 @@ SIMULATED ARMA(2,2) PROCESS:
 <img width="993" height="528" alt="TS EXP4 PIC6" src="https://github.com/user-attachments/assets/d221f8ec-afc8-4248-90b6-e64dae66e757" />
 
 
-Partial Autocorrelation
+Autocorrelation
 
 <img width="1002" height="528" alt="TS EXP4 PIC7" src="https://github.com/user-attachments/assets/894fb005-48e7-47d9-9dfa-1eba1dbf5cb6" />
 
 
-Autocorrelation
+Partial Autocorrelation
 <img width="1002" height="528" alt="TS EXP4 PIC8" src="https://github.com/user-attachments/assets/3169d229-5858-4088-a25c-9b843c41892d" />
 
 
